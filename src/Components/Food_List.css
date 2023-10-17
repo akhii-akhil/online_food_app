@@ -1,0 +1,16 @@
+.allign_it{
+    margin-left: -632px;
+}
+.sp{
+    color: aqua;
+}
+.imag img{
+    border-radius: 100%;
+  height: 100px;
+  margin-right: 25px;
+  position: relative;
+}
+.imag {
+    display: flex;
+    margin-left: 250px;
+  }

@@ -1,0 +1,13 @@
+.NavOne{
+    display: inline-block;
+    width: 100%;
+    background-color: aquamarine;
+}
+.Nav_elmy{
+    list-style: none;
+  padding: 12px;
+  float: left;
+}
+.Nav_elmy.login {
+    float: right;
+  }

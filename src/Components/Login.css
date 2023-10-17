@@ -1,0 +1,25 @@
+.button_style{
+    width: 190px;
+  height: 40px;
+  background-color: bisque;
+  border-radius: 12px;
+}
+.text_n{
+    margin: 5px;
+  padding: 4px;
+  width: 332px;
+  border: 1px solid brown;
+}
+.lab{
+    display: inline-block;
+  margin-bottom: 1.9rem;
+  padding: 9px 9px 9px 9px;
+}
+form{
+  display: inline-block;
+  width: 50%;
+    margin: 70px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+    background-color: #f0f8ff;
+    border-radius: 40px;
+}
